@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "yjkim0083"
-  avatar           : "/assets/images/corgi_looking_up_dribbble.jpg"
-  bio              : "Doing AWS DevOps"
+  avatar           : "https://avatars1.githubusercontent.com/u/7941368?s=400&u=2613ae029139e6c79df77879bd6a97e2412c2271&v=4"
+  bio              : "잡다한 개발자"
   location         : "Seoul, KR"
   email            : "yjkim0083@gmail.com"
   uri              :
