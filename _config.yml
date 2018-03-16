@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "ko"
-title                    : "developer blog.."
+title                    : "Developer blog.."
 title_separator          : "-"
 name                     : "yjkim0083"
 description              : "Let's make an amazing website."
@@ -89,7 +89,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/ninaimvers"
+  facebook         : "ninaimvers"
   foursquare       :
   github           : "varian-lee"
   google_plus      :
