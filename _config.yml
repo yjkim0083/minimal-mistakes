@@ -9,20 +9,20 @@
 
 # Site Settings
 locale                   : "ko"
-title                    : "Varian의 블로그"
+title                    : "developer blog.."
 title_separator          : "-"
-name                     : "Varian Lee"
+name                     : "yjkim0083"
 description              : "Let's make an amazing website."
-url                      : "https://varian-lee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yjkim0083.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "varian-lee/varian-lee.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "yjkim0083/yjkim0083.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/corgi_looking_up_dribbble.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "varian-lee" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "yjkim0083" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Varian Lee"
+  name             : "yjkim0083"
   avatar           : "/assets/images/corgi_looking_up_dribbble.jpg"
   bio              : "Doing AWS DevOps"
   location         : "Sungnam, KR"
